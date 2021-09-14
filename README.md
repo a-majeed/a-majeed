@@ -4,7 +4,7 @@ I'm a Computer Science student at MacEwan!
 
 ## Projects 🖥
 
-* Wanna explore nature? Use my [webiste](https://am-naturetours.herokuapp.com/) to explore your adventurous side! 🐾 
+* Wanna explore nature? Use my [website](https://am-naturetours.herokuapp.com/) to explore your adventurous side! 🐾 
 * Lets get you to your destination quicker! Use [AStarSolver](https://github.com/a-majeed/AStarSolver) to lead the way! 📍
 * Tired of failing at sudoku? Use [Sudoku Solver](https://github.com/a-majeed/Sudoku-Solver) to do it for you! ✏️ 
 
