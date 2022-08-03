@@ -1,6 +1,6 @@
 # Hi, I’m Azaan 👋🏽
 
-I'm a Computer Science student at MacEwan!
+I'm a Software Engineer currently looking for full time work!
 
 ## Projects 🖥
 
